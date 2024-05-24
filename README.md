@@ -3,7 +3,7 @@ Using this library for Arduino, you will be able to manage a 7-segment display c
 
 
 
-![](https://github.com/BOOMYTECH/DisplayLED_Custom/tree/main/img/display_draw.jpg)
+![](https://github.com/BOOMYTECH/DisplayLED_Custom/blob/main/img/display_draw.jpg)
 
 
 
