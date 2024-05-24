@@ -47,3 +47,5 @@ BTDisplay disp;
  disp.digit("9");<br>
  
  pls watch this video: https://youtu.be/Mb3xCe2Co3A to see how this Stream Deck has been created.
+ ![](https://github.com/BOOMYTECH/DisplayLED_Custom/blob/main/img/1_s.jpg)
+ ![](https://github.com/BOOMYTECH/DisplayLED_Custom/blob/main/img/2_s.jpg)
