@@ -1,0 +1,57 @@
+#######################################
+# Syntax Coloring Map For BT_Display
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BTDisplay	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+segment_a	KEYWORD2
+segment_b	KEYWORD2
+segment_c	KEYWORD2
+segment_d	KEYWORD2
+segment_e	KEYWORD2
+segment_f	KEYWORD2
+segment_g	KEYWORD2
+segment_dp	KEYWORD2
+digit_0	KEYWORD2
+digit_1	KEYWORD2
+digit_2	KEYWORD2
+digit_3	KEYWORD2
+digit_4	KEYWORD2
+digit_5	KEYWORD2
+digit_6	KEYWORD2
+digit_7	KEYWORD2
+digit_8	KEYWORD2
+digit_9	KEYWORD2
+digit_null	KEYWORD2
+digit__
+digit_A 
+digit_b 
+digit_C
+digit_d 
+digit_E
+digit_F
+digit_H
+
+digit	KEYWORD2
+digit_ALL_off	KEYWORD2
+ShowSeg	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+digit_Brightness	LITERAL1
+digit_Color	LITERAL1
+digit_Active	LITERAL1
+totLedPerDigit	LITERAL1
