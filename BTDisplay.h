@@ -13,7 +13,7 @@ class BTDisplay {
     byte digit_Active;                 // Active Digit
     unsigned int  tot_LedPerDigit;     // led in a single digit
     unsigned int  tot_Digits;          // Total Digits
-    String _a,_b,_c,_d,_e,_f,_g,_dp;
+    String _a,_b,_c,_d,_e,_f,_g,_dp,_dp2;
  
     void ShowSeg( String segment, bool is_ON);
     void show();
@@ -32,6 +32,7 @@ class BTDisplay {
     void segment_f(bool is_ON);
     void segment_g(bool is_ON);
     void segment_dp(bool is_ON);
+    void segment_dp2(bool is_ON);
 
     void digit_0();
     void digit_1();
