@@ -38,7 +38,7 @@ byte          digit_Active;             // Active Digit
 
 // LED SCHEMA DEFINED BY USER  (must be defined in source file)
 // --------------------------------------------
-//String _a,_b,_c,_d,_e,_f,_g,_dp;
+//String _a,_b,_c,_d,_e,_f,_g,_dp,_dp2;
 
 //eg.
 //disp._a = "3,4,5";
@@ -49,6 +49,7 @@ byte          digit_Active;             // Active Digit
 //disp._f = "6,7,8";
 //disp._g = "9,10,11";
 //disp._dp = "15";
+//disp_dp2 = "16";
 // --------------------------------------------
 
 // ----------------------------------------
